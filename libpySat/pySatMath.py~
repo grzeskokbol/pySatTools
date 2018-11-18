@@ -1,0 +1,67 @@
+
+import numpy as np
+
+
+
+def RotationMatrix3DX(self, theta: float):
+    """
+    system rotation matrix around X axis
+    :param theta: angle in radians
+    :return:
+    """
+    ret = np.array((3, 3), dtype = float)
+    c = np.cos(theta)
+    s = np.sin(theta)
+
+    ret[0, 0] = 1.0
+    ret[0, 1] = 0.0
+    ret[0, 2] = 0.0
+    ret[1, 0] = 0.0;
+    ret[1, 1] = c
+    ret[1, 2] = s
+    ret[2, 0] = 0.0
+    ret[2, 1] = -s
+    ret[2, 2] = c
+    return ret
+
+def RotationMatrix3DY(self, theta: float):
+    """
+    system rotation matrix around Y axis
+    :param theta: angle in radians
+    :return:
+    """
+    ret = np.array ((3, 3), dtype = float)
+    c = np.cos(theta)
+    s = np.sin(theta)
+
+    ret[0, 0] = c
+    ret[0, 1] = 0.0
+    ret[0, 2] = -s
+    ret[1, 0] = 0.0;
+    ret[1, 1] = 1.0
+    ret[1, 2] = 0.0
+    ret[2, 0] = s
+    ret[2, 1] = 0.0
+    ret[2, 2] = c
+    return ret
+
+def RotationMatrix3DZ(self, theta: float):
+    """
+    system rotation matrix around Z axis
+    :param theta: angle in radians
+    :return:
+    """
+    ret = np.array ((3, 3), dtype = float)
+    c = np.cos(theta)
+    s = np.sin(theta)
+
+    ret[0, 0] = c
+    ret[0, 1] = s
+    ret[0, 2] = 0.0
+    ret[1, 0] = -s
+    ret[1, 1] = c
+    ret[1, 2] = 0.0
+    ret[2, 0] = 0.0
+    ret[2, 1] = 0.0
+    ret[2, 2] = 1.0
+    return ret

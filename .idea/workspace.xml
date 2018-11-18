@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a2736ef-6cd7-483d-beeb-4f0682c32bfe" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TLElinks.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pySatTransform.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/libpySat/pySatTransform.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="107" column="0" lean-forward="true" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+              <folding>
+                <element signature="e#2#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IERS_A_UR</find>
+      <find>TRF2</find>
+      <find>TRF2CRF</find>
+      <find>self.</find>
+      <find>precession</find>
+      <find>atime</find>
+      <find>getCIPandCIOlocator</find>
+      <find>-</find>
+      <find>self,</find>
+      <find>mjd</find>
+      <find>UT1</find>
+      <find>getUT</find>
+      <find>c2ixys</find>
+      <find>PrecessionNutation</find>
+      <find>pole</find>
+      <find>getMatrix_Polar</find>
+      <find>getTIO</find>
+      <find>getPolarMotion</find>
+      <find>ut1</find>
+      <find>getCIPandCIOlocator(epoch)</find>
+      <find>print</find>
+      <find>pysAt.</find>
+      <find>self.getPoleOffsets(epoch)</find>
+      <find>getPoleOffsets(epoch)</find>
+      <find>getPoleOffsets</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/astroFunc.py" />
+        <option value="$PROJECT_DIR$/Time.py" />
+        <option value="$PROJECT_DIR$/Transform.py" />
+        <option value="$PROJECT_DIR$/pySatTransform.py" />
+        <option value="$PROJECT_DIR$/pySatMath.py" />
+        <option value="$PROJECT_DIR$/pySatTime.py" />
+        <option value="$PROJECT_DIR$/src/_erfa/__init__.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/MANIFEST.in" />
+        <option value="$PROJECT_DIR$/src/_erfa/core.py" />
+        <option value="$PROJECT_DIR$/src/pySatMath.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/__init__.py" />
+        <option value="$PROJECT_DIR$/src/pySatTime.py" />
+        <option value="$PROJECT_DIR$/src/pySatHelper.py" />
+        <option value="$PROJECT_DIR$/src/pySatTransform.py" />
+        <option value="$PROJECT_DIR$/utils/CoordConvert.py" />
+        <option value="$PROJECT_DIR$/libpySat/__init__.py" />
+        <option value="$PROJECT_DIR$/libpySat/pySatMath.py" />
+        <option value="$PROJECT_DIR$/libpySat/pySatHelper.py" />
+        <option value="$PROJECT_DIR$/libpySat/pySatTime.py" />
+        <option value="$PROJECT_DIR$/CoordConvert.py" />
+        <option value="$PROJECT_DIR$/libpySat/pySatTransformPolarMotion.py" />
+        <option value="$PROJECT_DIR$/libpySat/pySatTransformERA.py" />
+        <option value="$PROJECT_DIR$/libpySat/pySatTransformPrecessionNutation.py" />
+        <option value="$PROJECT_DIR$/libpySat/pySatTransform.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2256" />
+    <option name="y" value="81" />
+    <option name="width" value="1529" />
+    <option name="height" value="868" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pySatTools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pySatTools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pySatTools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pySatTools" type="462c0819:PsiDirectoryNode" />
+              <item name="libpySat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pySatTools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pySatTools" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a2736ef-6cd7-483d-beeb-4f0682c32bfe" name="Default" comment="" />
+      <created>1520453359829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520453359829</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22911051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="78" column="36" lean-forward="true" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="36" />
+          <folding>
+            <element signature="e#2#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="91" column="64" lean-forward="true" selection-start-line="91" selection-start-column="64" selection-end-line="91" selection-end-column="64" />
+          <folding>
+            <element signature="e#2#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatMath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatTransformERA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="28" lean-forward="false" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+          <folding>
+            <marker date="1520812407446" expanded="true" signature="1:60" ph="import ..." />
+            <marker date="1520812407446" expanded="true" signature="82:2228" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="115:321" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="376:1017" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="385:566" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812407446" expanded="true" signature="604:971" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="1080:1927" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="1089:1262" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812407446" expanded="true" signature="1487:1520" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="1986:2228" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="1995:2050" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordConvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="71" column="22" lean-forward="true" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pySatTransform.py" />
+    <entry file="file://$PROJECT_DIR$/pySatTransform.py" />
+    <entry file="file://$PROJECT_DIR$/Transform.py" />
+    <entry file="file://$PROJECT_DIR$/Transform.py" />
+    <entry file="file://$PROJECT_DIR$/Transform.py" />
+    <entry file="file://$PROJECT_DIR$/Transform.py" />
+    <entry file="file://$PROJECT_DIR$/astroFunc.py" />
+    <entry file="file://$PROJECT_DIR$/astrargs.py" />
+    <entry file="file://$PROJECT_DIR$/astroConst.py" />
+    <entry file="file://$PROJECT_DIR$/Transform.py" />
+    <entry file="file://$PROJECT_DIR$/Time.py" />
+    <entry file="file://$PROJECT_DIR$/pySatMath.py" />
+    <entry file="file://$PROJECT_DIR$/pySatTime.py" />
+    <entry file="file://$PROJECT_DIR$/pySatTransform.py" />
+    <entry file="file://$PROJECT_DIR$/utils/pySatTransform.py" />
+    <entry file="file://$PROJECT_DIR$/_erfa/core.c" />
+    <entry file="file://$PROJECT_DIR$/src/_erfa/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/getTLE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_erfa/core.c" />
+    <entry file="file://$PROJECT_DIR$/src/_erfa/core.py" />
+    <entry file="file://$PROJECT_DIR$/src/_erfa/erfa_generator.py" />
+    <entry file="file://$PROJECT_DIR$/src/_erfa/setup_package.py" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MANIFEST.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TLElinks.txt" />
+    <entry file="file://$PROJECT_DIR$/src/pySatMath.py" />
+    <entry file="file://$PROJECT_DIR$/src/pySatTime.py" />
+    <entry file="file://$PROJECT_DIR$/utils/getTLE.py" />
+    <entry file="file://$PROJECT_DIR$/src/pySatHelper.py" />
+    <entry file="file://$PROJECT_DIR$/src/pySatTransform.py" />
+    <entry file="file://$PROJECT_DIR$/src/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/utils/CoordConvert.py" />
+    <entry file="file://$PROJECT_DIR$/libpySat/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatMath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2124">
+          <caret line="118" column="1" lean-forward="false" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <marker date="1520768925010" expanded="true" signature="0:77" ph="import ..." />
+            <marker date="1520768925010" expanded="true" signature="102:660" ph="..." />
+            <marker date="1520768925010" expanded="true" signature="107:235" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520768925010" expanded="true" signature="352:463" ph="..." />
+            <marker date="1520768925010" expanded="true" signature="473:641" ph="..." />
+            <marker date="1520768925010" expanded="true" signature="686:722" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520768925010" expanded="true" signature="814:969" ph="..." />
+            <marker date="1520768925010" expanded="true" signature="981:1239" ph="..." />
+            <marker date="1520768925010" expanded="true" signature="994:1159" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="59" column="52" lean-forward="true" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordConvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="66" column="42" lean-forward="false" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatTransformPolarMotion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="97" column="22" lean-forward="false" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+          <folding>
+            <marker date="1520812284066" expanded="true" signature="1:158" ph="import ..." />
+            <marker date="1520812284066" expanded="true" signature="187:3244" ph="..." />
+            <marker date="1520812284066" expanded="true" signature="220:416" ph="..." />
+            <marker date="1520812284066" expanded="true" signature="475:640" ph="..." />
+            <marker date="1520812284066" expanded="true" signature="484:564" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812284066" expanded="true" signature="702:959" ph="..." />
+            <marker date="1520812284066" expanded="true" signature="711:793" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812284066" expanded="true" signature="1021:1733" ph="..." />
+            <marker date="1520812284066" expanded="true" signature="1030:1143" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812284066" expanded="true" signature="1180:1687" ph="..." />
+            <marker date="1520812284066" expanded="true" signature="1784:2159" ph="..." />
+            <marker date="1520812284066" expanded="true" signature="1793:2041" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812284066" expanded="true" signature="2224:3244" ph="..." />
+            <marker date="1520812284066" expanded="true" signature="2233:2346" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatTransformERA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+          <folding>
+            <marker date="1520812407446" expanded="true" signature="1:60" ph="import ..." />
+            <marker date="1520812407446" expanded="true" signature="82:2228" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="115:321" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="376:1017" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="385:566" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812407446" expanded="true" signature="604:971" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="1080:1927" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="1089:1262" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812407446" expanded="true" signature="1487:1520" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="1986:2228" ph="..." />
+            <marker date="1520812407446" expanded="true" signature="1995:2050" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatTransformPrecessionNutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="91" column="39" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+          <folding>
+            <marker date="1520812460438" expanded="true" signature="2:95" ph="import ..." />
+            <marker date="1520812460438" expanded="true" signature="168:340" ph="..." />
+            <marker date="1520812460438" expanded="true" signature="400:602" ph="..." />
+            <marker date="1520812460438" expanded="true" signature="409:523" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812460438" expanded="true" signature="672:2218" ph="..." />
+            <marker date="1520812460438" expanded="true" signature="681:787" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812460438" expanded="true" signature="825:2172" ph="..." />
+            <marker date="1520812460438" expanded="true" signature="1673:1758" ph="..." />
+            <marker date="1520812460438" expanded="true" signature="2281:2692" ph="..." />
+            <marker date="1520812460438" expanded="true" signature="2290:2407" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812460438" expanded="true" signature="2416:2557" ph="..." />
+            <marker date="1520812460438" expanded="true" signature="2773:2879" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1520812460438" expanded="true" signature="2917:4264" ph="..." />
+            <marker date="1520812460438" expanded="true" signature="3765:3850" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libpySat/pySatTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="107" column="0" lean-forward="true" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+include *.txt
+include Makefile
+recursive-include src *.py
+recursive-include utils *.py
