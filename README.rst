@@ -1,5 +1,6 @@
 # pySatTools
 Tools concerning Earth-orbiting satellites
+author: grzeskokbol
 
 1) CoordConvert.py
 - conversion of statellite's coordinates between reference systems
